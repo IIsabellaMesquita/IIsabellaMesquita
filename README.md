@@ -24,11 +24,11 @@ Sou Isabella Mesquita, estou cursando o ensino médio junto com o tecnico de Des
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/higorber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorber&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/IIsabellaMesquita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIsabellaMesquita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIsabellaMesquita&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-![Badge de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=higober.IIsabellaMesquita)
+![Badge de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=IIsabellaMesquita.IIsabellaMesquita)
