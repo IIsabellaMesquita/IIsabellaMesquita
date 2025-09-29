@@ -2,7 +2,7 @@
 
 Sou Isabella Mesquita, estou cursando o ensino médio junto com o tecnico de Desenvolvimento de Sistemas, faço também Power BI. Fique à vontade para me encontrar nas redes sociais:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isabella%20Mesquita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-mesquita-pereira-dos-santos/)](https://www.linkedin.com/in/isabella-mesquita-pereira-dos-santos)
+[![Linkedin Badge](https://img.shields.io/badge/-Isabella%20Mesquita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-mesquita-pereira/)](https://www.linkedin.com/in/isabella-mesquita-pereira)
 [![Instagram Badge](https://img.shields.io/badge/-@IIsabellaps-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/IIsabellaps/)](https://www.instagram.com/IIsabellaps/)
 [![Email Badge](https://img.shields.io/badge/-isabellamesquita182@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellamesquita182@gmail.com)](mailto:isabellamesquita182@gmail.com)
 
